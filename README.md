@@ -12,7 +12,7 @@ My work is driven by curiosity about how data, technology, and human-centered re
 📚🎓 Educational research, assessment, and program evaluation <BR>
 🏛️🔍 Public-sector and interdisciplinary research <BR><BR>
 
-My doctoral research applies AI/ML and time-series forecasting to water-quality data, with a focus on forecasting residual chlorine concentrations in drinking-water treatment. I am also interested in developing reproducible analytical workflows, evaluating how models generalize across datasets, and translating technical results into useful information for decision-makers. <BR><BR>
+My doctoral research applies AI/ML and time-series forecasting to water quality data, with a focus on forecasting residual chlorine concentrations in drinking water. I am also interested in developing reproducible analytical workflows, evaluating how models generalize across datasets, and translating technical results into useful information for decision-makers. <BR><BR>
 
 Before moving more deeply into data science, my background included work in engineering, educational research, institutional assessment, and program evaluation. These experiences continue to influence how I approach data, not simply as numbers, but as evidence that must be interpreted within a broader technical, organizational, and human context. <BR><BR>
 
@@ -30,7 +30,8 @@ Before moving more deeply into data science, my background included work in engi
 🔎🤖 Explainable and responsible AI <BR>
 📚📝 Educational research and evaluation <BR>
 📊🎨 Data visualization and technical communication <BR>
-🧑🏽‍💻⚙️ Human-centered decision-support tools <BR>
+🧑🏽‍💻⚙️ Human-centered decision-support tools <BR> <BR>
+
 💃🏽🎭 Beyond the data <BR><BR>
 
 I am also an artist specializing in dance. Dance gives me another way to explore creativity, discipline, storytelling, culture, and human expression. I believe analytical and artistic thinking can strengthen one another—and that creativity belongs in technical work just as much as rigor does. <BR><BR>
